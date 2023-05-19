@@ -1,0 +1,31 @@
+body {
+	background: #181719;
+}
+
+.nav-wrapper {
+	background: #181719;
+}
+
+.page-footer {
+	background: #A10E0E;
+}
+img {
+	width: 100%;
+}
+
+.gallery {
+	max-width: absolute;
+	padding-top: 50px;
+}
+
+.card-content {
+	background: ;
+}
+p {
+	color: white;
+}
+
+.nav_menu {
+	position: fixed;
+	z-index: 1;
+}
